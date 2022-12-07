@@ -22,8 +22,8 @@
  3. [`C3: Structures de contrôles`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap3.pdf) ;
  4. [`C4: Tableaux`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap4.pdf) ;
  5. [`C5: Tri d'un tableaux et recherche d'un élément`] ;
- 6. [`C6: Pointeur`] ;
+ 6. [`C6: Pointeurs`] ;
  7. [`C7: Fonctions et récursivité`] ;
  8. [`C8: Fichiers`] ;
  9. [`C9: Structures`] ;
- 10. [`C10: Listes chaînée, Piles, Files et Arbres`] ;
+ 10. [`C10: Listes chaînées, Piles, Files et Arbres`] ;
