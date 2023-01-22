@@ -21,8 +21,8 @@
  2. [`C2: Variables, opérateurs et opérations`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap2.pdf) ;
  3. [`C3: Structures de contrôles`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap3.pdf) ;
  4. [`C4: Tableaux`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap4.pdf) ;
- 5. [`C5: Tri d'un tableaux et recherche d'un élément`] ;
- 6. [`C6: Pointeurs`] ;
+ 5. [`C5: Tri d'un tableaux et recherche d'un élément`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap5.pdf) ;
+ 6. [`C6: Pointeurs`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap6.pdf) ;
  7. [`C7: Fonctions et récursivité`] ;
  8. [`C8: Fichiers`] ;
  9. [`C9: Structures`] ;
