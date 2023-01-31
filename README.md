@@ -27,3 +27,4 @@
  8. [`C8: Fichiers`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/fichiers.pdf) ;
  9. [`C9: Structures`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/structures.pdf) ;
  10. [`C10: Listes chaînées, Piles, Files et Arbres`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/list_pile_file.pdf) ;
+ 11. [`C11: Introduction à la POO : Notion de Classe et Objet`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/classe_et_objet.pdf)
