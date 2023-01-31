@@ -24,6 +24,6 @@
  5. [`C5: Tri d'un tableaux et recherche d'un élément`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap5.pdf) ;
  6. [`C6: Pointeurs`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap6.pdf) ;
  7. [`C7: Fonctions et récursivité`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/fonction.pdf) ;
- 8. [`C8: Fichiers`] ;
- 9. [`C9: Structures`] ;
- 10. [`C10: Listes chaînées, Piles, Files et Arbres`] ;
+ 8. [`C8: Fichiers`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/fichiers.pdf) ;
+ 9. [`C9: Structures`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/structures.pdf) ;
+ 10. [`C10: Listes chaînées, Piles, Files et Arbres`](https://github.com/pape-barro/l3_supdeco_thies/blob/main/list_pile_file.pdf) ;
